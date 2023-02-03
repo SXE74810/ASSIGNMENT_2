@@ -7,4 +7,4 @@ for i in range(0, len(x)):
     #appended the results in to the new list
 
 #type is used to find the data type of a variable
-print(y)
+print(x,"\n",y)
